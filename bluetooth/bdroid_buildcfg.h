@@ -19,6 +19,6 @@
 
 #define BTA_DISABLE_DELAY 1000 /* in milliseconds */
 
-#define BTM_DEF_LOCAL_NAME   "Infinix HOT 4 Pro"
+#define BTM_DEF_LOCAL_NAME   "Infinix NOTE 3 Pro"
 
 #endif
