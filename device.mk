@@ -19,7 +19,7 @@ LOCAL_PATH := device/Infinix/X601
 DEVICE_PACKAGE_OVERLAYS += device/Infinix/X601/overlay
 
 # AAPT configs
-PRODUCT_AAPT_CONFIG := normal
+PRODUCT_AAPT_CONFIG := normal xhdpi xxhdpi
 PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 
 # Bootanimation
